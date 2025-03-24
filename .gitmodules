@@ -1,0 +1,3 @@
+[submodule "Uge-4-PDFDownloader"]
+	path = Uge-4-PDFDownloader
+	url = https://github.com/prismicious/Uge-4-PDFDownloader.git
