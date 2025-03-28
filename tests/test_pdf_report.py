@@ -2,7 +2,7 @@ from unittest.mock import patch, mock_open, MagicMock
 import os
 import sys
 import pandas as pd
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "Uge-4-PDFDownloader")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../Uge-4-PDFDownloader")))
 from models.Report import PDFReport
 
 
